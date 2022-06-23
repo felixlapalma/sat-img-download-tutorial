@@ -1,0 +1,15 @@
+geopandas
+rasterio
+matplotlib
+earthpy
+eo_tilematcher
+eo_forge
+sentinelsat
+# STAC
+pystac-client
+# Azure Specific
+planetary-computer
+# dev formatting
+isort
+black
+
