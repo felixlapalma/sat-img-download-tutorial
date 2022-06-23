@@ -17,7 +17,7 @@ We use `sentinelsat` for download and `eo_forge` for cropping.
 ## Notebooks
 
 - [local](./notebooks/satellite-images-download.ipynb)
-- [colab]
+- [colab](https://drive.google.com/file/d/1BJEAMfZT_y6R2heRZ2jgRA93wVYN_fqk/view?usp=sharing) (or [colab-on-repo](./notebooks/satellite-images-download-colab.ipynb))
 
 ## Environment
 
